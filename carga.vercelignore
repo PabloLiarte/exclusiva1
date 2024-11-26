@@ -1,0 +1,10 @@
+# Ignorar node_modules o entornos virtuales
+node_modules/
+venv/
+
+# Ignorar archivos grandes y temporales
+*.log
+*.tmp
+*.backup
+
+.git/
