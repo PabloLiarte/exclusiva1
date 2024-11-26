@@ -1,7 +1,2 @@
 .git/
-node_modules/  # Si es generado automáticamente
-tests/
-examples/
-docs/
-*.log
-*.tmp
+
